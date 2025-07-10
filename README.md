@@ -18,7 +18,7 @@ To do so we will use a probabilistic simulation with an Ensemble of 30 simulatio
 ## Material
 ...
 
-## Modules
+## Python Modules
 
 For this repository, the following modules and versions are needed : 
    - xarray v2025.01.2
